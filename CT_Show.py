@@ -73,5 +73,5 @@ def display_dicom_slices(series_dir, num_images=4):
     
 ########Test
 
-series_dir = "/content/drive/MyDrive/medical/data/project/Abdomal_aurt/KIYANIYAN^MOHAMAD/CT/Series 0-"
+series_dir = "/content/drive/MyDrive/medical"
 display_dicom_slices(series_dir, num_images=4)
